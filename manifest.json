@@ -1,0 +1,17 @@
+{
+  "name": "Iglesia Conexión Registro",
+  "short_name": "Conexión",
+  "description": "Sistema de registro de creyentes - Iglesia Conexión",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#e0e5ec",
+  "theme_color": "#4834d4",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/192/192431.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
